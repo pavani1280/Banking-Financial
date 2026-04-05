@@ -1,0 +1,52 @@
+{
+  "_id": {
+    "$oid": "69b4e1b37cd520c6ed02363d"
+  },
+  "userId": {
+    "$oid": "69b4e18f7cd520c6ed02363a"
+  },
+  "accountType": "savings",
+  "balance": 500,
+  "accountNumber": "AC422457",
+  "status": "active",
+  "accountId": "ACC970944",
+  "createdAt": {
+    "$date": "2026-03-14T04:18:59.053Z"
+  },
+  "__v": 0
+}
+{
+  "_id": {
+    "$oid": "69b4e2067cd520c6ed02364a"
+  },
+  "userId": {
+    "$oid": "69b4e1eb7cd520c6ed023646"
+  },
+  "accountType": "savings",
+  "balance": 4800,
+  "accountNumber": "AC885519",
+  "status": "active",
+  "accountId": "ACC1401872",
+  "createdAt": {
+    "$date": "2026-03-14T04:20:22.860Z"
+  },
+  "__v": 0
+}
+
+{
+  "_id": {
+    "$oid": "69b50a772762f202548b9358"
+  },
+  "userId": {
+    "$oid": "69b4e1eb7cd520c6ed023646"
+  },
+  "accountType": "checking",
+  "balance": 0,
+  "accountNumber": "AC604779",
+  "status": "active",
+  "accountId": "ACC3151197",
+  "createdAt": {
+    "$date": "2026-03-14T07:12:55.752Z"
+  },
+  "__v": 0
+}
